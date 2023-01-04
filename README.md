@@ -1,2 +1,2 @@
 # multilplayer-pong
-Multiplayer Pong Game
+Multiplayer Pong Game built with node, socket.io, express
