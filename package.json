@@ -1,0 +1,23 @@
+{
+  "name": "multilplayer-pong",
+  "version": "1.0.0",
+  "description": "Multiplayer Pong Game with Sockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamfanslau/multilplayer-pong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamfanslau/multilplayer-pong/issues"
+  },
+  "homepage": "https://github.com/adamfanslau/multilplayer-pong#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
